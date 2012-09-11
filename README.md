@@ -11,3 +11,9 @@ Also, please note that as of 2012-09-11, all this does is post text posts to Tum
 Also note that this script relies on <https://github.com/decklin/curlicue> and <https://gist.github.com/2603387>.
 
 Versions of those have been copied into this repository. Forgive me if that's not the 'proper' way to do this, I'm new to the ways of git, especially etiquette and protocol, I just wanted to make sure they were available in case the originals disappear.
+
+# For more information…
+
+I wrote up a much longer 'how to' explaining how this all fits together. You can find it at <http://tj.luo.ma/post/tumblr-oauth-and-curl>.
+
+Actually, knowing my history for blowing away my Web site and never putting the pieces back together, I have included the blog post as 'blog-post.md'
